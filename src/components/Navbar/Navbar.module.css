@@ -5,6 +5,7 @@
 
 .item {
     color: white;
+    padding: 0.5rem;
 }
 
 .item.active {
